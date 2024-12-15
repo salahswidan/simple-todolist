@@ -100,6 +100,7 @@ class TodoListScreen extends StatelessWidget {
                                   ? Colors.blue[900]
                                   : Colors.blue[700],
                             ),
+                            
                           ),
                           trailing: IconButton(
                             icon: Icon(CupertinoIcons.delete,
