@@ -1,0 +1,4 @@
+#Sun Dec 15 12:46:00 EET 2024
+base.0=D\:\\Downloads\\todolist\\todolist\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
